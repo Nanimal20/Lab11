@@ -1,0 +1,3 @@
+This is another test for Lab 11. I am adding this text file to the repo via the GitHub UI.
+It appears that my computer was not configured correctly so I have problems accessing GitHub
+from my Linux work environment.
